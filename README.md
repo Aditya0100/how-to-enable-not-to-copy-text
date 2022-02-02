@@ -20,5 +20,4 @@ for all borswers we'll gonna use
 
 -o-user-select: none;
 
-user-select: none;
 
